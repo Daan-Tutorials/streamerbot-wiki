@@ -1,54 +1,114 @@
 ---
-title: Streamer.bot
-description: Officiële documentatie voor Streamer.bot
+title: Home
+description: Official Documentation for Streamer.bot
 published: true
-date: 2022-07-04T07:48:05.852Z
-tags: 
+date: 2022-07-27T15:50:25.121Z
+tags:
 editor: markdown
-dateCreated: 2022-07-01T01:14:30.573Z
+dateCreated: 2021-08-25T17:28:59.469Z
 ---
 
-*Translated by ik#1497*{.translation-badge}
-# Welkom bij Streamer.bot
-![streamerbot.png](/logos/streamerbot.png){.align-abstopright}
+![streamerbot.png](/logos/streamerbot.png) {.align-abstopright}
 
-Documentatie voor Streamer.bot. Hier zijn de changelogs en informatie van alle aspecten van dit programma.
+<section class="overview-grid my-5">
+<div>
 
-Bovendien, zijn er kanalen in de Streamer.bot discord voor hulp en ondersteuning, deel ondekkingen, en presenteer waar je aan werkt.  Het programma kan zich optimaal ontwikkelen als we allemaal nieuwe en interessante manieren delen om dingen te doen.
+Basics{.overline}
+- [🚀 Quick Start Guide](/en/Quick-Start)
+- [⬆️ How to Upgrade](/en/Update)
+- [💾 How to Backup](/en/Backup)
+- [🐧 Linux Setup](/en/Linux-Support)
+- [Setup Platform: Twitch](/en/Platforms/Twitch)
+- [Setup Platform: YouTube](/en/Platforms/YouTube)
+- [Setup Broadcaster: OBS](/en/Broadcasters/OBS)
+- [Setup Broadcaster: Streamlabs Desktop](/en/Broadcasters/StreamlabsDesktop)
 
-**Deze wiki wordt altijd aan gewerkt. als je wilt helpen met het maken van deze wiki met informatie, neem dan contact met mij op via Discord**
+</div>
+<div>
 
-* [Discord *Sluit je aan bij Discord voor voorbeelden, hulp, om te delen wat je hebt gemaakt, of gewoon om rond te hangen!*](https://discord.streamer.bot)
-{.links-list}
+Configuration{.overline}
+- [Actions](/en/Actions)
+- [Sub-Actions](/en/Sub-Actions)
+- [Commands](/en/Commands)
+- [Settings](/en/Settings)
+- [Voice-Control](/en/Voice-Control)
+- [Variables](/en/Variables)
+- [Inline-Functions](/en/Inline-Functions)
 
-Je creaties delen op Twitter? Zorg ervoor dat je **@streamerdotbot** tagt, en/of gebruik de hashtags **#streamerdotbot**, **#streamerbot**!
+</div>
 
-Maak jij Streamer. bot video’s op YouTube, zorg ervoor dat je de **#streamerbot** en/of **#streamerdotbot** hashtags toevoegt om anderen te helpen jouw video's te vinden!
+<div>
 
-## Beschikbare Plugins
+Integrations{.overline}
+- [Streamlabs](/en/Integrations/Streamlabs)
+- [StreamElements](/en/Integrations/StreamElements)
+- [VoiceMod](/en/Integrations/VoiceMod)
+- [DonorDrive](/en/Integrations/DonorDrive)
+- [Ko-Fi](/en/Integrations/Ko-Fi)
+- [Patreon](/en/Integrations/Patreon)
+- [View all integrations...](/en/Integrations)
 
-* [StreamDeck](https://github.com/nate1280/streamdeck-Streamer.bot)
-* [TouchPortal](https://www.christophecvb.com/touch-portal/plugins/streamer-bot)
-* [Voice Attack](https://github.com/nate1280/voiceattack-Streamer.bot)
-* [LoupeDeck](https://github.com/XeroxDev/Loupedeck-plugin-StreamerBot)
-* [DeckBoard *kan worden geïnstalleerd via de server app*](https://github.com/rivafarabi/streamerbot-deckboard)
-{.links-list}
+</div>
 
-## Uitgebreide functies
+<div>
 
-Heb je geen `Streamdeck`, of geen `Loupedeck`? Op zoek naar een webgebaseerde deck die u kunt instellen en gebruiken.
+Available Plugins{.overline}
+- [StreamDeck](https://github.com/nate1280/streamdeck-Streamer.bot)
+- [TouchPortal](https://www.christophecvb.com/touch-portal/plugins/streamer-bot)
+- [Voice Attack](https://github.com/nate1280/voiceattack-Streamer.bot)
+- [LoupeDeck / Razer](https://github.com/XeroxDev/Loupedeck-plugin-StreamerBot)
+- [DeckBoard](https://github.com/rivafarabi/streamerbot-deckboard)
 
-Nou, kijk even **[Streamer.bot Decks](https://streamer.bot/user/decks)**, het is momenteel een **WIP** functie, gemaakt door de zeer getalenteerde **Whipstickgostop**
+</div>
 
-## Bedankt
+<div>
 
-Om te beginnen wil ik iedereen bedanken die deze bot heeft gebruikt, feedback geeft (het breken😁), en mijn inspanningen te ondersteunen om een andere optie te bieden voor streamers die ze moeten gebruiken.
+Extended Features{.overline}
+- [Streamer.bot Decks](/en/Extended-Features/HTML-Decks)
+- [HTML-Overlay](/en/Extended-Features/HTML-Overlay)
+- [Extensions Wiki](https://extensions.streamer.bot)
 
-Hartelijk dank aan de geweldige mensen die mij hebben geholpen door deze hectische publicatie: (**[Lyfesaver74](https://twitch.tv/lyfesaver74)**, **[Geocym](https://twitch.tv/geocym)**, **[VRFlad](https://twitch.tv/vrflad)**, **[Krayn_](https://twitch.tv/krayn_)**, **[Njna_Grimsdottir](https://twitch.tv/njna_grimsdottir)**, & **[Whipstickgostop](https://twitch.tv/whipstickgostop)**)
+</div>
 
-Ik waardeer alle steun van iedereen en van iedereen voor het gebruik van deze software.  Thank you.
+<div>
 
-* [Patreon *Het is nooit verplicht, ik heb een Patreon opgezet als je de ontwikkeling wilt ondersteunen.*](https://patreon.com/nate1280)
-{.links-list}
+Additional Links{.overline}
+- [Streamer.bot Website](https://streamer.bot)
+- [Submit Your Ideas &amp; Suggestions](https://ideas.streamer.bot)
+- [Discord](https://discord.streamer.bot)
 
-[Over](/About) Streamer.bot
+</div>
+</section>
+
+---
+
+> **NOTE** This Wiki is very much a work in progress. If you see bugs/typos or you want to contribute, please reach out on Discord in [#unearthed-arcana](https://discord.gg/RCcH54hWck) 
+> 
+> {.is-info}
+
+
+Additionally, there are channels on the Streamer.bot discord to seek help/support, share discoveries, and present what you're working on.  
+The application can advance/evolve optimally if we all share new/interesting ways to do things.
+
+- [<i class="mdi mdi-discord text--discord"></i> ***Streamer.bot Discord ***Join the Discord for examples, help, to share what you've made, or just to hang out!******](https://discord.streamer.bot)
+{.btn-grid .my-5}
+
+Sharing your creations on **Twitter**? Be sure to tag **@streamerdotbot**, and/or use the hashtags **#streamerdotbot**, **#streamerbot**!
+
+Are you uploading videos on **YouTube**? Be sure to add the **#streamerbot** and/or **#streamerdotbot** hashtags to help others find your videos!
+
+
+## Special Thanks
+
+Wanted to first off, say thank you to everyone who has been using this bot, providing feedback (i.e. breaking it 😁), and being supportive of my efforts to just provide another option for streamers out there to use.
+
+A very big thank you to the amazing folks who have been supporting me through the hectic release: (**[Lyfesaver74](https://twitch.tv/lyfesaver74)**, **[Geocym](https://twitch.tv/geocym)**, **[VRFlad](https://twitch.tv/vrflad)**, **[Krayn_](https://twitch.tv/krayn_)**, **[Njna_Grimsdottir](https://twitch.tv/njna_grimsdottir)**, & **[Whipstickgostop](https://twitch.tv/whipstickgostop)**)
+
+I appreciate all the support from everyone and to all using this software.  Thank you.
+
+[About](/About) Streamer.bot
+
+## Support the Project
+
+- [<i class="mdi mdi-patreon text--patreon"></i> ***Patreon ***It is never required, I have setup a Patreon if you would like to support development.******](https://patreon.com/nate1280)
+{.btn-grid .my-5}
